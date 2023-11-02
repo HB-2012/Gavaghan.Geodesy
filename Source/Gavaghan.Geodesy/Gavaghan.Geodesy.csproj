@@ -1,9 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-
     <Version>2.0.0.0</Version>
     <Authors>Mike Gavaghan (mike@gavaghan.org)</Authors>
     <Company>Mike Gavaghan (mike@gavaghan.org)</Company>
